@@ -52,6 +52,7 @@ a, p {
 .about {
   background-color: black;
   color: #ffb700;
+  font-family: telugu;
   padding-top: 20px;
   display: flex;
   justify-content: center;

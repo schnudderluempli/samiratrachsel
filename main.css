@@ -70,12 +70,14 @@ a, p {
     gap: 150px;
   }
   .text {
+    font-family: telugu;
     width: 40%;
   }
   .header-img {
     width: 50%;
   }
   .menu-text {
+    font-family: telugu;
     font-size: 4rem;
   }
 }

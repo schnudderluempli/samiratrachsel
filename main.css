@@ -1,4 +1,6 @@
 @font-face {
+  * { font-family: telugu;
+}
   font-family: "telugu";
   src: url("/assets/TeluguMN.ttc") format("ttc");
 }

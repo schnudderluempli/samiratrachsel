@@ -1,6 +1,6 @@
 @font-face {
   font-family: "telugu";
-  src: url("/assets/TeluguMN.ttc") format("ttc");
+  src: url("./assets/CothamSans.otf");
 }
 html, body {
   margin: 0;
@@ -71,9 +71,9 @@ a, p {
 }
 .text {
   padding: 16px;
-  text-align: center;
   font-size: 1.2rem;
   line-height: 120%;
+  text-align: justify;
 }
 @media (min-width: 600px) {
   .grid {

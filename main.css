@@ -35,6 +35,11 @@ a, p {
 .header-img {
   width: 95%;
 }
+a, p {
+  font-family: telugu;
+  padding: 0;
+  margin: 0;
+}
 .menu-text {
   font-family: telugu;
   text-align: center;
@@ -44,11 +49,11 @@ a, p {
   color: black;
   overflow-x: hidden;
 }
-a, p {
+ a, p {
   font-family: telugu;
   padding: 0;
   margin: 0;
-  
+} 
 .about {
   background-color: black;
   color: #ffb700;
@@ -59,8 +64,12 @@ a, p {
   flex-direction: row;
   overflow-x: hidden;
 }
-.text {
+a, p {
   font-family: telugu;
+  padding: 0;
+  margin: 0;
+}
+.text {
   padding: 16px;
   text-align: center;
   font-size: 1.2rem;
@@ -71,15 +80,23 @@ a, p {
     flex-direction: row;
     gap: 150px;
   }
+  a, p {
+  font-family: telugu;
+  padding: 0;
+  margin: 0;
+}
   .text {
-    font-family: telugu;
     width: 40%;
   }
   .header-img {
     width: 50%;
   }
+  a, p {
+  font-family: telugu;
+  padding: 0;
+  margin: 0;
+}
   .menu-text {
-    font-family: telugu;
     font-size: 4rem;
   }
 }
